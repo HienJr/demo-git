@@ -1,0 +1,15 @@
+.container {
+    height: 500px;
+    background: orange;
+    display: flex;
+    gap:0px 40px;
+
+}
+
+.item {
+    /* margin-left: 40px; */
+    margin-top: 100px;
+    height: 200px;
+    width: 200px;
+    background: aqua;
+}
